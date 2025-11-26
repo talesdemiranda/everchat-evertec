@@ -308,7 +308,7 @@ Esta extensão:
 
 | Versão | Data | Mudanças |
 |--------|------|----------|
-| 1.2.0 | 18/11/2025 | Política de Privacidade inicial |
+| 1.5.0 | 26/11/2025 | Política de Privacidade inicial |
 
 ---
 
